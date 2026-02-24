@@ -1,5 +1,17 @@
 # @clack/prompts
 
+## 1.1.0
+
+### Minor Changes
+
+- e3333fb: Replaces `picocolors` with Node.js built-in `styleText`.
+
+### Patch Changes
+
+- c3666e2: destruct `limitOption` param for better code readability, tweak types definitions
+- Updated dependencies [e3333fb]
+  - @clack/core@1.1.0
+
 ## 1.0.1
 
 ### Patch Changes
